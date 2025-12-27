@@ -1,20 +1,20 @@
 ---
-title: "Eco-Friendly Fashion"
-description: "Sustainable fashion choices for a greener wardrobe."
-image: "/images/fashion.jpg"
-pubDate: 2024-02-01
+title: "Una nueva aventura"
+description: "Una mirada más allá de mi aventura como desarrollador y docente"
+image: "/images/grupofamiliar.jpeg"
+pubDate: 2025-11-16
 tags: ["technology", "economy"]
 ---
 
-# Eco-Friendly Fashion: Style with Conscience
+# Una nueva aventura: Blog para ustedes
 
-Fashion can be both stylish and sustainable. Learn how to build an eco-friendly wardrobe.
+Este será el primer post de mi blog donde leerán acerca de diversos temas sobre tecnología y economía en mi recorrido a través de más de 3 países y cómo algunas veces me he caído y otras he salido con victoria.
 
-## Sustainable Fashion Tips
+## Algunos tópicos que encontrarás
 
-1. Choose quality over quantity
-2. Support sustainable brands
-3. Buy second-hand clothing
-4. Care for clothes properly
+1. Nuevas tecnologías
+2. Emprendimientos
+3. Tips sobre desarrollo y economía
+4. Experiencias con productos y servicios
 
-Your fashion choices can make a positive impact on the environment.
+Te invitamos a disfrutar de estos pocos minutos de lectura.

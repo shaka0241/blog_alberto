@@ -1,12 +1,12 @@
 ---
-title: "About the Author"
-description: "Learn more about the person behind Low Power Blog"
+title: "Acerca de mí"
+description: "Aprender y leer mas acerca de mi como persona"
 image: "/images/sustainable.jpg"
 ---
 
-# t3ma
+# Alberto Rojas
 
-Hi! I'm t3ma, a low-power computing enthusiast and sustainability advocate. I focus on energy-efficient technology solutions and minimal computing practices.
+Soy Alberto Rojas, un intento de desarrollador que ha migrado a mas de 3 paises buscando siempre la forma de mejorar mi calidad de vida y la de mis seres queridos.
 
 ## My Journey
 
@@ -22,4 +22,4 @@ I started this blog in 2024 to explore and share knowledge about low-power compu
 
 ## Contact
 
-Feel free to reach out at https://temaprint.com for discussions about low-power computing and sustainable technology.
+Feel free to reach out at https://albertorojas.com for discussions about low-power computing and sustainable technology.
