@@ -10,6 +10,7 @@ dist/
 # Файлы редакторов и IDE
 .idea/
 .vscode/
+!.vscode/extensions.json
 *.swp
 
 # Логи и временные файлы
